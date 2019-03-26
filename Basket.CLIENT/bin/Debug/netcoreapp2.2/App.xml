@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>basket.client</name>
+    </assembly>
+    <members>
+        <member name="T:Basket.CLIENT.Consume">
+            <summary>
+            This class is a client library that makes use of the Basket API endpoints.
+            </summary>
+        </member>
+        <member name="M:Basket.CLIENT.Consume.GetProducts">
+            <summary>
+            Return all products in a list
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Basket.CLIENT.Consume.AddItemToCart(System.Int64,System.Int32)">
+            <summary>
+            Add a product in the database
+            </summary>
+            <param name="productId">The id of the product we want to add to the cart</param>
+            <param name="quantity">The quantity of the product to add to the cart</param>
+            <returns></returns>
+        </member>
+        <member name="M:Basket.CLIENT.Consume.GetCartItems">
+            <summary>
+            Return all items present in the cart in a list
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Basket.CLIENT.Consume.GetCartItem(System.String)">
+            <summary>
+            Return the item present in the cart as an Item object
+            </summary>
+            <param name="itemId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Basket.CLIENT.Consume.DeleteItemInCart(System.String)">
+            <summary>
+            Delete an item present in the cart
+            </summary>
+            <param name="itemId">The id of the item we want to remove from the cart</param>
+            <returns></returns>
+        </member>
+        <member name="M:Basket.CLIENT.Consume.DeleteAllItemsInCart">
+            <summary>
+            Clear all items present in the cart
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Basket.CLIENT.Consume.UpdateItemQuantity(System.String,System.Int32)">
+            <summary>
+            Update the quantity of an item in the cart
+            </summary>
+            <param name="itemId">The id of the item we want to update</param>
+            <param name="quantity">The new quantity value</param>
+            <returns></returns>
+        </member>
+        <member name="T:Basket.CLIENT.Model.Item">
+            <summary>
+            This class represents a model of an item which is present in the cart
+            </summary>
+        </member>
+        <member name="T:Basket.CLIENT.Model.Product">
+            <summary>
+            The class represents the model of a product which is present in the database
+            </summary>
+        </member>
+    </members>
+</doc>

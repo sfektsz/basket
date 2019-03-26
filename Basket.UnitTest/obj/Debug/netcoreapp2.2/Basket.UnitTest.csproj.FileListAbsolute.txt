@@ -1,0 +1,17 @@
+C:\Users\heman.dookhee\Desktop\Checkout\Basket.UnitTest\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\heman.dookhee\Desktop\Checkout\Basket.UnitTest\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\heman.dookhee\Desktop\Checkout\Basket.UnitTest\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\heman.dookhee\Desktop\Checkout\Basket.UnitTest\bin\Debug\netcoreapp2.2\Basket.UnitTest.deps.json
+C:\Users\heman.dookhee\Desktop\Checkout\Basket.UnitTest\bin\Debug\netcoreapp2.2\Basket.UnitTest.runtimeconfig.json
+C:\Users\heman.dookhee\Desktop\Checkout\Basket.UnitTest\bin\Debug\netcoreapp2.2\Basket.UnitTest.runtimeconfig.dev.json
+C:\Users\heman.dookhee\Desktop\Checkout\Basket.UnitTest\bin\Debug\netcoreapp2.2\Basket.UnitTest.dll
+C:\Users\heman.dookhee\Desktop\Checkout\Basket.UnitTest\bin\Debug\netcoreapp2.2\Basket.UnitTest.pdb
+C:\Users\heman.dookhee\Desktop\Checkout\Basket.UnitTest\obj\Debug\netcoreapp2.2\Basket.UnitTest.csprojAssemblyReference.cache
+C:\Users\heman.dookhee\Desktop\Checkout\Basket.UnitTest\obj\Debug\netcoreapp2.2\Basket.UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\heman.dookhee\Desktop\Checkout\Basket.UnitTest\obj\Debug\netcoreapp2.2\Basket.UnitTest.AssemblyInfoInputs.cache
+C:\Users\heman.dookhee\Desktop\Checkout\Basket.UnitTest\obj\Debug\netcoreapp2.2\Basket.UnitTest.AssemblyInfo.cs
+C:\Users\heman.dookhee\Desktop\Checkout\Basket.UnitTest\obj\Debug\netcoreapp2.2\Basket.UnitTest.dll
+C:\Users\heman.dookhee\Desktop\Checkout\Basket.UnitTest\obj\Debug\netcoreapp2.2\Basket.UnitTest.pdb
+C:\Users\heman.dookhee\Desktop\Checkout\Basket.UnitTest\obj\Debug\netcoreapp2.2\Basket.UnitTest.csproj.CopyComplete
+C:\Users\heman.dookhee\Desktop\Checkout\Basket.UnitTest\bin\Debug\netcoreapp2.2\basket.client.dll
+C:\Users\heman.dookhee\Desktop\Checkout\Basket.UnitTest\bin\Debug\netcoreapp2.2\basket.client.pdb

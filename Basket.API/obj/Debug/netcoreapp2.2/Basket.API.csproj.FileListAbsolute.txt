@@ -1,0 +1,14 @@
+C:\Users\heman.dookhee\Desktop\Checkout\Basket.API\bin\Debug\netcoreapp2.2\Basket.API.deps.json
+C:\Users\heman.dookhee\Desktop\Checkout\Basket.API\bin\Debug\netcoreapp2.2\Basket.API.runtimeconfig.json
+C:\Users\heman.dookhee\Desktop\Checkout\Basket.API\bin\Debug\netcoreapp2.2\Basket.API.runtimeconfig.dev.json
+c:\Users\heman.dookhee\Desktop\Checkout\Basket.API\bin\Debug\netcoreapp2.2\Basket.API.dll
+c:\Users\heman.dookhee\Desktop\Checkout\Basket.API\bin\Debug\netcoreapp2.2\Basket.API.pdb
+c:\Users\heman.dookhee\Desktop\Checkout\Basket.API\obj\Debug\netcoreapp2.2\Basket.API.csprojAssemblyReference.cache
+c:\Users\heman.dookhee\Desktop\Checkout\Basket.API\obj\Debug\netcoreapp2.2\Basket.API.csproj.CoreCompileInputs.cache
+c:\Users\heman.dookhee\Desktop\Checkout\Basket.API\obj\Debug\netcoreapp2.2\Basket.API.RazorAssemblyInfo.cache
+c:\Users\heman.dookhee\Desktop\Checkout\Basket.API\obj\Debug\netcoreapp2.2\Basket.API.RazorAssemblyInfo.cs
+c:\Users\heman.dookhee\Desktop\Checkout\Basket.API\obj\Debug\netcoreapp2.2\Basket.API.AssemblyInfoInputs.cache
+c:\Users\heman.dookhee\Desktop\Checkout\Basket.API\obj\Debug\netcoreapp2.2\Basket.API.AssemblyInfo.cs
+c:\Users\heman.dookhee\Desktop\Checkout\Basket.API\obj\Debug\netcoreapp2.2\Basket.API.RazorTargetAssemblyInfo.cache
+c:\Users\heman.dookhee\Desktop\Checkout\Basket.API\obj\Debug\netcoreapp2.2\Basket.API.dll
+c:\Users\heman.dookhee\Desktop\Checkout\Basket.API\obj\Debug\netcoreapp2.2\Basket.API.pdb

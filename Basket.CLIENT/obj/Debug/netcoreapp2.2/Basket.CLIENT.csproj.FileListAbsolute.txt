@@ -1,0 +1,10 @@
+C:\Users\heman.dookhee\Desktop\Checkout\Basket.CLIENT\bin\Debug\netcoreapp2.2\Basket.CLIENT.deps.json
+C:\Users\heman.dookhee\Desktop\Checkout\Basket.CLIENT\bin\Debug\netcoreapp2.2\Basket.CLIENT.dll
+C:\Users\heman.dookhee\Desktop\Checkout\Basket.CLIENT\bin\Debug\netcoreapp2.2\Basket.CLIENT.pdb
+C:\Users\heman.dookhee\Desktop\Checkout\Basket.CLIENT\obj\Debug\netcoreapp2.2\Basket.CLIENT.csprojAssemblyReference.cache
+C:\Users\heman.dookhee\Desktop\Checkout\Basket.CLIENT\obj\Debug\netcoreapp2.2\Basket.CLIENT.csproj.CoreCompileInputs.cache
+C:\Users\heman.dookhee\Desktop\Checkout\Basket.CLIENT\obj\Debug\netcoreapp2.2\Basket.CLIENT.AssemblyInfoInputs.cache
+C:\Users\heman.dookhee\Desktop\Checkout\Basket.CLIENT\obj\Debug\netcoreapp2.2\Basket.CLIENT.AssemblyInfo.cs
+C:\Users\heman.dookhee\Desktop\Checkout\Basket.CLIENT\obj\Debug\netcoreapp2.2\Basket.CLIENT.dll
+C:\Users\heman.dookhee\Desktop\Checkout\Basket.CLIENT\obj\Debug\netcoreapp2.2\Basket.CLIENT.pdb
+C:\Users\heman.dookhee\Desktop\Checkout\Basket.CLIENT\bin\Debug\netcoreapp2.2\App.xml
